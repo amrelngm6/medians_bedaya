@@ -27,6 +27,7 @@
 
     <!-- CSS -->
     <link href="./dist/css/tailwind.min.css" rel="stylesheet">
+    <link href="./dist/owl/assets/owl.carousel.min.css" rel="stylesheet">
     <link href="./dist/css/custom.css" rel="stylesheet">
     <link href="./dist/css/responsive.css" rel="stylesheet">
 

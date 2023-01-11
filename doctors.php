@@ -11,7 +11,7 @@
                 <form class="absolute top-0  left-0 right-0 mx-auto bg-white px-6 pt-2 pb-6 border-1 border border-gray-100 rounded-lg " >
                     <p class="py-4 text-base font-semibold purple-color">البحث عن طبيب</p>
                     <div class="flex w-full gap-3 gap">
-                        <input class="border-1 runded border border-1 border-gray-200 w-full text-sm rounded-2xl bg-white px-4 py-2" placeholder="البحث عن مقال">
+                        <input class="border-1 runded border border-1 border-gray-200 w-full text-sm rounded-2xl bg-white px-4 py-2" placeholder="إسم الطبيب">
                         <select class="border-1 runded border border-1 border-gray-200 w-full text-sm rounded-2xl bg-white px-4 py-2" placeholder="اختيار الفرع">
                             <option > -- التخصص</option>
                             <option value="1">امراض النساء </option>

@@ -1,4 +1,3 @@
-
     <footer class="w-full footer-bg relative">
         <img src="./img/light-network.png" class="absolute left-0 top-10 w-full " style="opacity: .08;" />
 
@@ -101,7 +100,33 @@
         </div>
     </footer>
     <script src="./dist/js/app.js"></script>
+    <script src="./dist/owl/owl.carousel.min.js"></script>
+    <script type="text/javascript">
+    jQuery(document).ready(function (e) {
+        // body...
+        $('.owl-carousel').owlCarousel({
+            loop:true,
+            margin:10,
+            responsiveClass:true,
+            responsive:{
+                0:{
+                    items:1,
+                    nav:true
+                },
+                600:{
+                    items:3,
+                    nav:false
+                },
+                1000:{
+                    items:4,
+                    nav:true,
+                    loop:true
+                }
+            }
+        })
+    })
 
+    </script>
 </body>
 
 </html>

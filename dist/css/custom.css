@@ -298,3 +298,17 @@ footer
     right: 0;
     color: #f30;
 }
+
+.owl-nav button.owl-next
+{
+    float: right;
+}
+.owl-nav button span
+{
+    float: right;
+    background: #eee;
+    border-radius: 10px;
+    font-size: 30px;
+    width: 50px;
+    margin-top: 15px;
+}    

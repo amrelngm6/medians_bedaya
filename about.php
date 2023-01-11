@@ -44,28 +44,28 @@
                     <img src="./img/about-1.png" class="lg:w-40 lg:h-40 w-20 h-20 rounded-full">
                     <div class="w-full lg:pl-10">
                         <span class="text-lg font-semibold block w-full pb-3 purple-color">أحدث التقنيات</span>
-                        <p class="lg:text-base text-sm ">نحن نسعى دائما لمواكبة ما هو جديد في عالم الخصوبه والتلقيح الخارجي وتطوير فريقنا الطبي من خلال إطلاعهم على أحدث التقنيات الطبيه المستخدمة والمحاضرات العالمية</p>
+                        <p class="lg:text-lg text-base ">نحن نسعى دائما لمواكبة ما هو جديد في عالم الخصوبه والتلقيح الخارجي وتطوير فريقنا الطبي من خلال إطلاعهم على أحدث التقنيات الطبيه المستخدمة والمحاضرات العالمية</p>
                     </div>
                 </div>
                 <div class="flex gap-2 lg:gap-6 py-6">
                     <img src="./img/about-2.png" class="lg:w-40 lg:h-40 w-20 h-20 rounded-full">
                     <div class="w-full lg:pl-10">
                         <span class="text-lg font-semibold block w-full pb-3 purple-color">الدعم العاطفي</span>
-                        <p class="lg:text-base text-sm">الدعم العاطفي لمرضانا من أهم العوامل التى نحاول التركيز عليها, ففريقنا الطبي والفني والتمريض يعلم جيداً الضغط النفسي والمشاكل الشخصية </p>
+                        <p class="lg:text-lg text-base">الدعم العاطفي لمرضانا من أهم العوامل التى نحاول التركيز عليها, ففريقنا الطبي والفني والتمريض يعلم جيداً الضغط النفسي والمشاكل الشخصية </p>
                     </div>
                 </div>
                 <div class="flex gap-2 lg:gap-6 py-6">
                     <img src="./img/about-3.png" class="lg:w-40 lg:h-40 w-20 h-20 rounded-full">
                     <div class="w-full lg:pl-10">
                         <span class="text-lg font-semibold block w-full pb-3 purple-color">نسب النجاح</span>
-                        <p class="lg:text-base text-sm">نحن نسعى دائما لمواكبة ما هو جديد في عالم الخصوبه والتلقيح الخارجي وتطوير فريقنا الطبي من خلال إطلاعهم على أحدث التقنيات الطبيه المستخدمة والمحاضرات العالمية</p>
+                        <p class="lg:text-lg text-base">نحن نسعى دائما لمواكبة ما هو جديد في عالم الخصوبه والتلقيح الخارجي وتطوير فريقنا الطبي من خلال إطلاعهم على أحدث التقنيات الطبيه المستخدمة والمحاضرات العالمية</p>
                     </div>
                 </div>
                 <div class="flex gap-2 lg:gap-6 py-6">
                     <img src="./img/about-4.png" class="lg:w-40 lg:h-40 w-20 h-20 rounded-full">
                     <div class="w-full lg:pl-10">
                         <span class="text-lg font-semibold block w-full pb-3 purple-color">الجودة العالمية</span>
-                        <p class="lg:text-base text-sm">نحن نسعى دائما لمواكبة ما هو جديد في عالم الخصوبه والتلقيح الخارجي وتطوير فريقنا الطبي من خلال إطلاعهم على أحدث التقنيات الطبيه المستخدمة والمحاضرات العالمية</p>
+                        <p class="lg:text-lg text-base">نحن نسعى دائما لمواكبة ما هو جديد في عالم الخصوبه والتلقيح الخارجي وتطوير فريقنا الطبي من خلال إطلاعهم على أحدث التقنيات الطبيه المستخدمة والمحاضرات العالمية</p>
                     </div>
                 </div>
             </div>
@@ -82,7 +82,7 @@
                 <div class="lg:w-9/12 lg:px-10 relative z-10">
                     <span class="text-xl font-semibold block w-full pb-3 purple-color">الأستاذ الدكتور إسماعيل أبو الفتوح</span>
                     <span class="text-sm block w-full pb-3 purple-color">رئيس مجلس إدارة مستشفى بداية</span>
-                    <p class="lg:text-base text-sm">
+                    <p class="lg:text-lg text-base">
                         كنت أطمح لتوفير خدمات متاحه للجميع وعلى أعلى مستوى داخل مصر وتكوين مستشفى تشمل كافة علاجات العقم وتأخر الحمل وحلول لأمراض النساء والذكوره .كثيراً ما يخجل من مشاكل الخصوبه وما شبه ولكن كان حلمنا بأن نؤسس مستشفى بإمكانيات طبيه ومعامل متخصصه قادره على تحقيق حلم الأزواج في إنجاب أطفال وإنشاء عائلة. رؤيتنا المستقبليه لمشفانا هى أن نواصل تقدمنا وتحقيق نسب نجاح أعلى في عمليات الإخصاب المساعد وتوفير بيئة مليئه بالدعم المعنوي والخصوصية الكاملة لمن يسعى لحل مشكلتة الإنجابيه. بالرغم من وصولنا لمعدلات النجاح العالميه إلى أننا نواصل لتقديم الأفضل والأجود
 .وبعد ان زاد عدد المرضى بالمقر القديم لبداية في مستشفى مصر الدولي قمنا بإنشاء أكبر مستشفى متخصص في علاج العقم واطفال الأنابيب في الشرق الأوسط ليضم جميع الخدمات المساعدة لعمليات الإخصاب المساعد والمناظير وعمليات الذكورة في مكان واحد.
                     </p>
@@ -102,28 +102,30 @@
         <div class="lg:flex w-full px-2 relative z-10">
             <div class="lg:w-2/12 py-2 px-6">
                 <span class="cairo block py-2  w-full text-xl font-semibold">اكتشف مستشفي بداية </span>
-                <p class="py-4">تتضمن مستشفي بداية أقسام عديده ضمن مساحة 4500 متر والتي تعتبر من أكبر المستشفيات التخصصية في علاجات الصحة الإنجابيه</p>
+                <p class="py-4 lg:text-lg">تتضمن مستشفي بداية أقسام عديده ضمن مساحة 4500 متر والتي تعتبر من أكبر المستشفيات التخصصية في علاجات الصحة الإنجابيه</p>
             </div>
             <div class="lg:w-10/12">
-                <div class="custom-scroll-container custom-scroll lg-custom-scroll-container lg-custom-scroll px-4">
-                    <div class="gap-3 gap  custom-scroll-list lg-custom-scroll-list w-full inline-block">
-                        <div class="px-2 custom-scroll-item lg-custom-scroll-item  inline-block">
-                            <img src="./img/about-slide-1.png">
-                        </div>
-                        <div class="px-2 custom-scroll-item lg-custom-scroll-item inline-block">
-                            <img src="./img/about-slide-2.png">
-                        </div>
-                        <div class="px-2 custom-scroll-item lg-custom-scroll-item inline-block">
-                            <img src="./img/about-slide-3.png">
-                        </div>
-                        <div class="px-2 custom-scroll-item lg-custom-scroll-item inline-block">
-                            <img src="./img/about-slide-1.png">
-                        </div>
-                        <div class="px-2 custom-scroll-item lg-custom-scroll-item inline-block">
-                            <img src="./img/about-slide-3.png">
-                        </div>
-                        <div class="px-2 custom-scroll-item lg-custom-scroll-item inline-block">
-                            <img src="./img/about-slide-2.png">
+                <div class="custom-scroll-container custom-scroll lg-custom-scroll-container lg-custom-scroll px-4" style="direction:ltr">
+                    <div  class=" w-full inline-block">
+                        <div  class="owl-carousel  w-full ">
+                            <div class="px-2 ">
+                                <img src="./img/about-slide-1.png">
+                            </div>
+                            <div class="px-2 ">
+                                <img src="./img/about-slide-2.png">
+                            </div>
+                            <div class="px-2 ">
+                                <img src="./img/about-slide-3.png">
+                            </div>
+                            <div class="px-2 ">
+                                <img src="./img/about-slide-1.png">
+                            </div>
+                            <div class="px-2 ">
+                                <img src="./img/about-slide-3.png">
+                            </div>
+                            <div class="px-2 ">
+                                <img src="./img/about-slide-2.png">
+                            </div>
                         </div>
                     </div>
                 </div>
