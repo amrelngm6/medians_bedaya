@@ -55,38 +55,44 @@
         <div class="crossed lg:block hidden">
         </div>
     </div>
+
+    
     <div class="relative pb-20  w-full overflow-hidden px-1">
         <img src="./img/circles-bg.png" class="absolute left-0 top-0 w-full" style="opacity: 0.05;" />
+
         <div class="container mx-auto relative z-10">
+        
             <h4 class="title-gradient rounded-lg py-2 mt-12 my-2 pl-40 pr-6 purple-color font-semibold text-xl " style="width: max-content;">
-                موضوعات قد تهمك
+                خدمات مستشفيات بداية
             </h4>
+            
             <div class="flex gap-3 gap row">
+                
                 <div class="blog-main-item lg:flex block w-full">
                     <div class="blog-item-img lg:w-5/12">
                         <img src="./img/main-blog.png" class="rounded-lg w-full py-4 lg:py-6">
                     </div>
                     <div class="blog-item-content lg:w-7/12">
                         <div class="py-2 lg:py-6 lg:pr-6 lg:px-10 px-2">
-                            <a href="#!" class="block  font-semibold text-sm cyan-color">2022/10/14</a>
-                            <a href="#!" class="lg:py-4 py-2 block font-bold purple-color lg:text-xl md:text-lg text-base">نصائح عن تجنب مخاطر اشعاعات الأجهزة على الحوامل</a>
+                            <a href="#!" class="lg:py-4 py-2 block font-bold purple-color lg:text-xl md:text-lg text-base">خدمة أطفال الانابيب</a>
                             <p class=" font-semibold text-gray-600 lg:text-base text-sm">نقدر في مستشفي بداية قيمة سعي الزوجين لإنجاب طفل ونعي تماما بالضغط النفسي التي تسببه مشكلة تأخر الحمل أو العقم</p>
                         </div>
                     </div>
                 </div>
+
                 <div class="blog-main-item lg:flex block w-full">
                     <div class="blog-item-img lg:w-5/12">
                         <img src="./img/main-blog.png" class="rounded-lg w-full py-4 lg:py-6">
                     </div>
                     <div class="blog-item-content lg:w-7/12">
                         <div class="py-2 lg:py-6 lg:pr-6 lg:px-10 px-2">
-                            <a href="#!" class="block  font-semibold text-sm cyan-color">2022/10/14</a>
-                            <a href="#!" class="lg:py-4 py-2 block font-bold purple-color lg:text-xl md:text-lg text-base">نصائح عن تجنب مخاطر اشعاعات الأجهزة على الحوامل</a>
+                            <a href="#!" class="lg:py-4 py-2 block font-bold purple-color lg:text-xl md:text-lg text-base">عملية الحقن المجهري</a>
                             <p class=" font-semibold text-gray-600 lg:text-base text-sm">نقدر في مستشفي بداية قيمة سعي الزوجين لإنجاب طفل ونعي تماما بالضغط النفسي التي تسببه مشكلة تأخر الحمل أو العقم</p>
                         </div>
                     </div>
                 </div>
             </div>
+
         </div>
     </div>
 

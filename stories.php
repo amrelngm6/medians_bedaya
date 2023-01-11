@@ -9,7 +9,7 @@
             <h1 class="text-2xl pb-10  mx-auto w-96 text-center font-bold purple-color">قصص نجاح بداية</h1>
         </div>
     </div>
-    <div class="blog-content container mx-auto">
+    <div class="blog-content container mx-auto" id="app">
         <div class="cairo hidden pt-10  purple-color font-semibold text-2xl text-center ">
             مستشفي بداية هى مقصدك لحياة أفضل. تعرف علي قصص نجاح الحقن المجهري
             <span class="mx-auto my-4 w-20 border border-b-1  border-gray-300 block"></span>
@@ -24,10 +24,10 @@
             <img src="./img/light-network.png" class="absolute left-0 top-0 w-full" style="opacity: .3;" />
             
 
-        <div class="custom-scroll-container custom-scroll container grid mx-auto relative z-10 ">
+        <div class="custom-scroll-container custom-scroll container grid mx-auto relative z-10 " >
             <div class="custom-scroll-list block lg:grid my-10 lg:grid-cols-3 sm:grid-cols-2 w-full ">
                 <div class=" relative custom-scroll-item mb-20 ">
-                    <div class="play-icon absolute z-10 right-0 left-0 top-0 w-12 rounded-full border-4 border border-white mx-auto bg-white">
+                    <div @click="showVideo('XngNyF1c5x8')" class="play-icon absolute z-10 right-0 left-0 top-0 w-12 rounded-full border-4 border border-white mx-auto bg-white">
                         <img src="./img/play-button_ex.png">
                     </div>
                     <div class="relative rounded-tl-2xl rounded-br-2xl m-6 cyan-gradient-vertical p-10">
@@ -43,7 +43,7 @@
                     </div>
                 </div>
                 <div class=" relative custom-scroll-item mb-20 ">
-                    <div class="play-icon absolute z-10 right-0 left-0 top-0 w-12 rounded-full border-4 border border-white mx-auto bg-white">
+                    <div @click="showVideo('DfmuUO_FMoQ')" class="play-icon absolute z-10 right-0 left-0 top-0 w-12 rounded-full border-4 border border-white mx-auto bg-white">
                         <img src="./img/play-button_ex.png">
                     </div>
                     <div class="relative rounded-tl-2xl rounded-br-2xl m-6 cyan-gradient-vertical p-10">
@@ -60,7 +60,7 @@
                 </div>
                
                 <div class=" relative custom-scroll-item mb-20 ">
-                    <div class="play-icon absolute z-10 right-0 left-0 top-0 w-12 rounded-full border-4 border border-white mx-auto bg-white">
+                    <div @click="showVideo('L0ijOp_9gt4')" class="play-icon absolute z-10 right-0 left-0 top-0 w-12 rounded-full border-4 border border-white mx-auto bg-white">
                         <img src="./img/play-button_ex.png">
                     </div>
                     <div class="relative rounded-tl-2xl rounded-br-2xl m-6 cyan-gradient-vertical p-10">
@@ -77,7 +77,7 @@
                 </div>
                
                 <div class=" relative custom-scroll-item mb-20 ">
-                    <div class="play-icon absolute z-10 right-0 left-0 top-0 w-12 rounded-full border-4 border border-white mx-auto bg-white">
+                    <div @click="showVideo('qO0XY7IQYxk')" class="play-icon absolute z-10 right-0 left-0 top-0 w-12 rounded-full border-4 border border-white mx-auto bg-white">
                         <img src="./img/play-button_ex.png">
                     </div>
                     <div class="relative rounded-tl-2xl rounded-br-2xl m-6 cyan-gradient-vertical p-10">
@@ -130,6 +130,8 @@
 
         </div>
 
+
+        <modal :items="['XngNyF1c5x8', 'L0ijOp_9gt4', 'DfmuUO_FMoQ', 'qO0XY7IQYxk']" ref="modal"></modal>
     </div>
     <div class="relative py-10  w-full  cyan-gradient45 overflow-hidden ">
         <img src="./img/light-network.png" class="absolute left-0 top-0 w-full" style="opacity: .4;" />
@@ -148,38 +150,46 @@
         <div class="crossed lg:block hidden">
         </div>
     </div>
+    
+
     <div class="relative pb-20  w-full overflow-hidden px-1">
         <img src="./img/circles-bg.png" class="absolute left-0 top-0 w-full" style="opacity: 0.05;" />
+
         <div class="container mx-auto relative z-10">
+        
             <h4 class="title-gradient rounded-lg py-2 mt-12 my-2 pl-40 pr-6 purple-color font-semibold text-xl " style="width: max-content;">
-                موضوعات قد تهمك
+                خدمات مستشفيات بداية
             </h4>
+            
             <div class="flex gap-3 gap row">
+                
                 <div class="blog-main-item lg:flex block w-full">
                     <div class="blog-item-img lg:w-5/12">
                         <img src="./img/main-blog.png" class="rounded-lg w-full py-4 lg:py-6">
                     </div>
                     <div class="blog-item-content lg:w-7/12">
                         <div class="py-2 lg:py-6 lg:pr-6 lg:px-10 px-2">
-                            <a href="#!" class="block  font-semibold text-sm cyan-color">2022/10/14</a>
-                            <a href="#!" class="lg:py-4 py-2 block font-bold purple-color lg:text-xl md:text-lg text-base">نصائح عن تجنب مخاطر اشعاعات الأجهزة على الحوامل</a>
+                            <a href="#!" class="lg:py-4 py-2 block font-bold purple-color lg:text-xl md:text-lg text-base">خدمة أطفال الانابيب</a>
                             <p class=" font-semibold text-gray-600 lg:text-base text-sm">نقدر في مستشفي بداية قيمة سعي الزوجين لإنجاب طفل ونعي تماما بالضغط النفسي التي تسببه مشكلة تأخر الحمل أو العقم</p>
                         </div>
                     </div>
                 </div>
+
                 <div class="blog-main-item lg:flex block w-full">
                     <div class="blog-item-img lg:w-5/12">
                         <img src="./img/main-blog.png" class="rounded-lg w-full py-4 lg:py-6">
                     </div>
                     <div class="blog-item-content lg:w-7/12">
                         <div class="py-2 lg:py-6 lg:pr-6 lg:px-10 px-2">
-                            <a href="#!" class="block  font-semibold text-sm cyan-color">2022/10/14</a>
-                            <a href="#!" class="lg:py-4 py-2 block font-bold purple-color lg:text-xl md:text-lg text-base">نصائح عن تجنب مخاطر اشعاعات الأجهزة على الحوامل</a>
+                            <a href="#!" class="lg:py-4 py-2 block font-bold purple-color lg:text-xl md:text-lg text-base">عملية الحقن المجهري</a>
                             <p class=" font-semibold text-gray-600 lg:text-base text-sm">نقدر في مستشفي بداية قيمة سعي الزوجين لإنجاب طفل ونعي تماما بالضغط النفسي التي تسببه مشكلة تأخر الحمل أو العقم</p>
                         </div>
                     </div>
                 </div>
             </div>
+
         </div>
     </div>
+
+
 <?php include('footer.php'); ?> 

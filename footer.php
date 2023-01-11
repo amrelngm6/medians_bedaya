@@ -66,27 +66,21 @@
                         <li class="py-1"><a href="#!">حساب فترة الولادة</a></li>
                         <li class="py-1"><a href="#!">حساب فترة التبويض</a></li>
                         <li>
-                            <div class="py-6">
-                                <a href="#!" class="inline-block bg-white rounded-lg p-2 w-10 text-center ml-2">
-                                    <svg class="mx-auto" xmlns="http://www.w3.org/2000/svg" width="12" height="24" viewBox="0 0 17.497 36">
-                                        <path id="facebook" d="M4.467,36V19.108H0V13.026H4.467v-5.2C4.467,3.749,7.105,0,13.185,0a36.913,36.913,0,0,1,4.281.236l-.143,5.68S15.467,5.9,13.441,5.9c-2.192,0-2.544,1.01-2.544,2.687v4.441h6.6l-.287,6.082H10.9V36H4.467" fill="#36d3eb" /></svg>
+                            <div class="py-6 text-blue-500">
+                                <a href="https://www.facebook.com/bedayaivf" class="inline-block bg-white rounded-lg p-2 w-10 text-center ml-2">
+                                    <i class="fab fa-facebook"></i>
                                 </a>
-                                <a href="#!" class="inline-block bg-white rounded-lg p-2 w-10 text-center ml-2">
-                                    <svg class="mx-auto" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 31.5 31.5">
-                                        <g id="logo-instagram" transform="translate(-2.25 -2.25)">
-                                            <path id="Path_25" data-name="Path 25" d="M24.562,4.875a6.583,6.583,0,0,1,6.563,6.563V24.563a6.583,6.583,0,0,1-6.563,6.563H11.438a6.583,6.583,0,0,1-6.563-6.563V11.438a6.583,6.583,0,0,1,6.563-6.563H24.563m0-2.625H11.438A9.214,9.214,0,0,0,2.25,11.438V24.563a9.214,9.214,0,0,0,9.188,9.187H24.563a9.214,9.214,0,0,0,9.187-9.188V11.438A9.214,9.214,0,0,0,24.562,2.25Z" fill="#36d3eb" />
-                                            <path id="Path_26" data-name="Path 26" d="M26.531,11.438a1.965,1.965,0,1,1,1.393-.576,1.969,1.969,0,0,1-1.393.576Z" fill="#36d3eb" />
-                                            <path id="Path_27" data-name="Path 27" d="M18,12.75A5.25,5.25,0,1,1,12.75,18,5.25,5.25,0,0,1,18,12.75m0-2.625A7.875,7.875,0,1,0,25.875,18,7.875,7.875,0,0,0,18,10.125Z" fill="#36d3eb" />
-                                        </g>
-                                    </svg>
+                                <a href="https://www.facebook.com/bedayaivf" class="inline-block bg-white rounded-lg p-2 w-10 text-center ml-2 text-purple-600">
+                                    <i class="fab fa-instagram"></i>
                                 </a>
-                                <a href="#!" class="inline-block bg-white rounded-lg p-2 w-10 text-center ml-2">
-                                    <svg class="mx-auto" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 30.002 21.1">
-                                        <path id="youtube" d="M14.9,21.942v-8.43l8.1,4.23-8.1,4.2Zm17.8-9.889a6.476,6.476,0,0,0-1.193-2.979A4.293,4.293,0,0,0,28.5,7.8c-4.2-.3-10.495-.3-10.495-.3h-.012s-6.3,0-10.495.3a4.293,4.293,0,0,0-3.006,1.27A6.488,6.488,0,0,0,3.3,12.052,45.384,45.384,0,0,0,3,16.908v2.276a45.409,45.409,0,0,0,.3,4.856,6.477,6.477,0,0,0,1.193,2.978A5.076,5.076,0,0,0,7.8,28.3c2.4.229,10.2.3,10.2.3s6.305-.009,10.5-.312a4.291,4.291,0,0,0,3.006-1.27A6.485,6.485,0,0,0,32.7,24.04a45.409,45.409,0,0,0,.3-4.856V16.908a45.36,45.36,0,0,0-.3-4.856Z" transform="translate(-3 -7.5)" fill="#36d3eb" fill-rule="evenodd" /></svg>
+                                <a href="https://www.youtube.com/@Bedayaivf" class="inline-block bg-white rounded-lg p-2 w-10 text-center ml-2 text-red-500">
+                                    <i class="fab fa-youtube"></i>
                                 </a>
-                                <a href="#!" class="inline-block bg-white rounded-lg p-2 w-10 text-center ml-2">
-                                    <svg class="mx-auto" xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 36.001 29.245">
-                                        <path id="twitter-bird" d="M36,3.464a14.956,14.956,0,0,1-3.69,3.814q.022.423.022.956a21.215,21.215,0,0,1-3.5,11.614,22.439,22.439,0,0,1-4.228,4.81A18.848,18.848,0,0,1,18.7,28a21.543,21.543,0,0,1-7.383,1.246A20.558,20.558,0,0,1,0,25.926a15.97,15.97,0,0,0,1.762.1,14.481,14.481,0,0,0,9.174-3.164A7.166,7.166,0,0,1,6.647,21.39,7.259,7.259,0,0,1,4.04,17.735a7.383,7.383,0,0,0,3.335-.124,7.2,7.2,0,0,1-4.24-2.545,7.146,7.146,0,0,1-1.684-4.694v-.091A7.289,7.289,0,0,0,4.8,11.2,7.337,7.337,0,0,1,2.4,8.573,7.207,7.207,0,0,1,1.51,5.061a7.257,7.257,0,0,1,1-3.711A21.029,21.029,0,0,0,9.243,6.8,20.524,20.524,0,0,0,17.73,9.068a7.222,7.222,0,0,1-.194-1.681A7.115,7.115,0,0,1,19.7,2.166a7.389,7.389,0,0,1,10.613.165A14.71,14.71,0,0,0,35,.537a7.141,7.141,0,0,1-3.244,4.087A14.76,14.76,0,0,0,36,3.464Z" fill="#36d3eb" /></svg>
+                                <a href="https://www.snapchat.com/add/bedaya_hospital/" class="inline-block text-yellow-400 bg-white rounded-lg p-2 w-10 text-center ml-2">
+                                    <i class="fab fa-snapchat"></i>
+                                </a>
+                                <a href="https://twitter.com/bedayaivf/" class="inline-block bg-white rounded-lg p-2 w-10 text-center ml-2 text-blue-400">
+                                    <i class="fab fa-twitter"></i>
                                 </a>
                             </div>
                         </li>

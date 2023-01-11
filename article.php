@@ -15,6 +15,7 @@
                             <hr class="pb-2" />
                             <p class="float-left"><span>الكاتب :</span> <span class="font-bold">دكتور مونيك مجدي</span> </p>
                             <p><span>تم النشر:Sep 04, 2020</span> • <span>المشاهدات: 441</span></p>
+                            <img src="./img/article-1.png" alt="Doctor" class="w-full" />
                             <div id="certificates" class="mt-10 relative mb-6 p-6 lightcyan-bg  rounded-lg overflow-hidden">
                                 <img src="./img/light-network.png" class="absolute left-0 top-0 w-full" style="opacity: .3;" />
                                 <div class="relative">
@@ -31,8 +32,7 @@
                                     </ul>
                                 </div>
                             </div>
-                            <img src="./img/article-1.png" alt="Doctor" class="w-full" />
-                            <div class="relative my-10">
+                            <div class="relative my-10 text-lg">
                                 <p>&nbsp;الهدف الرئيسى من وسائل الإخصاب المساعد المختلفة هى مساعدة الزوجين فى تحقيق حلمهم بالإنجاب وتكوين الأسرة. ويتم عادة اللجوء إلى عملية اطفال الانابيب فى حل مشاكل عديدة متعلقة بالعقم مثل:</p>
                                 <p>-سن اليأس (تقدم سن المرأة).</p>
                                 <p>-تأخر الحمل غير معروف السبب.</p>

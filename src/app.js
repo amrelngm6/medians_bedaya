@@ -18,8 +18,10 @@ Vue.use(VueSimpleAlert);
 Vue.use(VueDatepickerUi);
 
 Vue.component('Datepicker', VueDatepickerUi)
+
 Vue.component('demo', () => import('./demo.vue'));
 Vue.component('booking', () => import('./booking.vue'));
+Vue.component('modal', () => import('./modal.vue'));
 
 const VueApp = new Vue(
 {
@@ -33,5 +35,13 @@ const VueApp = new Vue(
     },
     mounted() {
 
+    },
+    methods: {
+        showVideo(videoId)
+        {
+            console.log('Show')
+            console.log(this.$refs)
+            this.$refs.modal.show(videoId);
+        }
     }
 });

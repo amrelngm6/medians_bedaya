@@ -30,6 +30,7 @@
     <link href="./dist/owl/assets/owl.carousel.min.css" rel="stylesheet">
     <link href="./dist/css/custom.css" rel="stylesheet">
     <link href="./dist/css/responsive.css" rel="stylesheet">
+    <link href="./dist/fontawesome/css/all.min.css" rel="stylesheet">  
 
     <!-- JS -->
     <script src="./dist/js/jquery-3.5.1.min.js"></script>
