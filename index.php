@@ -11,7 +11,7 @@
                     <h2 class="text-white text-2xl  lg:text-3xl font-semibold pb-0">متخصصون فى علاج العقم</h2>
                     <p class="text-white lg:text-lg ">وأمراض الذكورة وأطفال الانابيب وأمراض الجهاز التناسلي</p>
                     <div class="flex w-full gap-3 gap text-right   mt-4 " style="direction:rtl;">
-                         <a href="#!" class="py-1 px-3 rounded-lg purple-bg text-white flex gap gap-3">
+                         <a href="./offers.php" class="py-1 px-3 rounded-lg purple-bg text-white flex gap gap-3">
                              <span><i class="fa fa-gift my-1"></i></span>
                              <span>عروض مستشفيات بداية</span>
                          </a>
@@ -19,7 +19,7 @@
                              <span><i class="fa fa-calendar my-1"></i></span>
                              <span>حاسبة فترة الولادة</span>
                          </a>
-                         <a href="#!" class="py-1 px-3 rounded-lg purple-bg text-white flex gap gap-3">
+                         <a href="./srevice.php" class="py-1 px-3 rounded-lg purple-bg text-white flex gap gap-3">
                              <span><i class="fa fa-file my-1"></i></span>
                              <span>خدمات بداية</span>
                          </a>

@@ -8,7 +8,7 @@
         <div class="container mx-auto relative">
             <p class="text-sm pb-10 flex gap-2 font-bold text-gray-600">
             <span>الرئيسية </span> | 
-            <span>المقالات </span> | <span class="purple-color"> خطوات عملية اطفال الانابيب ونصائح ما بعد إرجاع الأجنة</span></p>
+            <span>الخدمات </span> | <span class="purple-color"> خطوات عملية اطفال الانابيب ونصائح ما بعد إرجاع الأجنة</span></p>
 
             <div class="mx-auto w-full relative z-10 mb-8">
                 <div class="relative top-0  left-0 right-0 px-6 pt-2 pb-6  ">

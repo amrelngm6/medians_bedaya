@@ -259,25 +259,29 @@ footer
 }
 
 
-.has-sub-menu .sub-menu
+.has-sub-menu > .sub-menu
 {
     top: 100px;
     visibility: hidden;
     transition: all .3s ease-in-out 0s;
 }
 
-.has-sub-menu:hover .sub-menu
+.has-sub-menu:hover > .sub-menu
 {
     top: 60px;
     visibility: visible;
 } 
 
+ .sub-menu .has-sub-menu:hover > .sub-menu 
+{
+    top: 0px;
+}
 .block-overlay-hover
 {
     max-height: 40px;
     transition:  all .5s ease-in-out 0s;    
 }
-.block-overlay:hover .block-overlay-hover
+.block-overlay:hover > .block-overlay-hover
 {
     max-height: 100%;
     transition:  all .5s ease-in-out;    

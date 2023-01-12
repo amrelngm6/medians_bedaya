@@ -97,7 +97,26 @@
                                 <li class="py-1"><a href="offers.php">العروض</a></li> 
                             </ul>
                         </li>
-                        <li class="h-full"><a class="block px-2 h-full hover:bg-blue-100" href="./service.php"><span class="block pt-5">الخدمات</span></a></li>
+                        <li class="has-sub-menu h-full relative">
+                            <a class="block px-2 h-full hover:bg-blue-100" href="./services.php"><span class="block pt-5">الخدمات</span></a>
+                            <ul class="text-sm sub-menu w-48 absolute top-18 right-0 bg-white p-6">
+                                <li class="py-1 has-sub-menu h-full relative">
+                                    <a href="service.php">الاخصاب المساعد</a>
+                                    <ul class="text-sm sub-menu w-48 absolute top-18 right-40 bg-white p-6">
+                                        <li class="py-1"><a href="service.php">أطفال الأنابيب</a></li>
+                                        <li class="py-1"><a href="service.php">التلقيح الصناعي</a></li>
+                                    </ul>
+                                </li>
+                                <li class="py-1 has-sub-menu h-full relative">
+                                    <a href="service.php">قسم النساء</a>
+                                    <ul class="text-sm sub-menu w-48 absolute top-18 right-40 bg-white p-6">
+                                        <li class="py-1"><a href="service.php">تجميد البويضات</a></li>
+                                        <li class="py-1"><a href="service.php">الاجهاض المتكرر</a></li>
+                                    </ul>
+                                </li>
+                                <li class="py-1"><a href="service.php">عيادة الصحة الجنسية</a></li>
+                            </ul>
+                        </li>
                         <li class="h-full"><a class="block px-2 h-full hover:bg-blue-100" href="./blog.php"><span class="block pt-5">المقالات</span></a></li>
                         <li class="h-full"><a class="block px-2 h-full hover:bg-blue-100" href="./contact.php"><span class="block pt-5">اتصل بنا</span></a></li>
                     </ul>
@@ -154,7 +173,7 @@
                         </div>
                     </li>
                     <li class="py-1 flex">
-                        <a class="w-full" href="#   !">الخدمات</a>
+                        <a class="w-full" href="#!">الخدمات</a>
                         <div class="relative w-full sub-menu">
                             <ul class="w-full absolute  bg-white p-2 rounded-lg z-10 ">
                                 <li class="py-1 "><a href="service.php">الإخصاب المساعد</a></li>
