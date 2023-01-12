@@ -41,7 +41,10 @@ const VueApp = new Vue(
         {
             console.log('Show')
             console.log(this.$refs)
-            this.$refs.modal.show(videoId);
+            if (this.$refs && this.$refs.modal)
+            {
+                this.$refs.modal.show(videoId);
+            }
         }
     }
 });
