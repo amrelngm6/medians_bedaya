@@ -14,15 +14,11 @@
     <div class="blog-content">
         <img src="./img/circles-bg.png" class="absolute left-0 top-10 w-full " style="opacity: .05;" />
 
-
-        <div class="offers-container px-2">
+        <div class="offers-container px-2 my-10">
             
             <div class=" grid grid-cols-1 lg:grid-cols-3 gap-6 mb-20">
                 <div class="w-full flex ">
-                  
                     <div id="map1" style="width: 100%; max-width: 500px; height: 250px"></div>
-
-
                 </div>
                 <div class="w-full  p-7 pb-0">
                     <h4 class="mb-2 text-2xl font-semibold purple-color pb-4">الدقي - مستشفى بداية</h4>

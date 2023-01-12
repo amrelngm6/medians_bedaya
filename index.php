@@ -6,10 +6,24 @@
         <img src="./img/header-bg.png" class="w-auto h-full home-bg" style="max-width: none;" />
         <div class="w-full slider-text  absolute left-0 top-0 ">
             <div class="container mx-auto lg:pt-40 pt-20 ">
-                <div class="lg:w-1/2 text-center lg:pt-32 pt-20">
-                    <h1 class="text-4xl lg:text-5xl font-bold pb-4 purple-color">مستشفي بداية</h1>
-                    <h2 class="text-white text-3xl  lg:text-4xl font-semibold pb-4">متخصصون فى علاج العقم</h2>
+                <div class="lg:w-1/2 text-right lg:pt-32 pt-20">
+                    <h1 class="text-4xl lg:text-4xl font-bold pb-4 purple-color">مستشفي بداية</h1>
+                    <h2 class="text-white text-2xl  lg:text-3xl font-semibold pb-0">متخصصون فى علاج العقم</h2>
                     <p class="text-white lg:text-lg ">وأمراض الذكورة وأطفال الانابيب وأمراض الجهاز التناسلي</p>
+                    <div class="flex w-full gap-3 gap text-right   mt-4 " style="direction:rtl;">
+                         <a href="#!" class="py-1 px-3 rounded-lg purple-bg text-white flex gap gap-3">
+                             <span><i class="fa fa-gift my-1"></i></span>
+                             <span>عروض مستشفيات بداية</span>
+                         </a>
+                         <a href="#!" class="py-1 px-3 rounded-lg purple-bg text-white flex gap gap-3">
+                             <span><i class="fa fa-calendar my-1"></i></span>
+                             <span>حاسبة فترة الولادة</span>
+                         </a>
+                         <a href="#!" class="py-1 px-3 rounded-lg purple-bg text-white flex gap gap-3">
+                             <span><i class="fa fa-file my-1"></i></span>
+                             <span>خدمات بداية</span>
+                         </a>
+                    </div>
                 </div>
                 <div class="relative lg:hidden grid grid-cols-2 sm:grid sm:grid-cols-3">
                     <img src="./img/light-network.png" class="absolute left-0 top-0 w-full" style="opacity: .5;" />
